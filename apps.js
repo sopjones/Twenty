@@ -41,5 +41,8 @@ do {
 alert(`We exit the loop. Computer total is ${computerNumber}`);
 
 
+// this is a comment
+
+
 
 
